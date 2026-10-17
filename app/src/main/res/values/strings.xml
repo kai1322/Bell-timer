@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bell Timer</string>
+    <string name="interval_label">ช่วงเวลา (นาที)</string>
+    <string name="beep_count_label">จำนวนครั้งเสียง (1–3)</string>
+    <string name="volume_label">ความดัง</string>
+    <string name="start">เริ่ม</string>
+    <string name="stop">หยุด</string>
+    <string name="status_idle">ยังไม่ได้เริ่ม</string>
+    <string name="status_running">กำลังทำงาน — ครั้งถัดไป: %1$s</string>
+    <string name="notification_title">Bell Timer กำลังทำงาน</string>
+    <string name="notification_text">ครั้งถัดไป: %1$s</string>
+    <string name="notification_stop">หยุด</string>
+    <string name="battery_hint">แนะนำ: ยกเว้นการจำกัดแบตเตอรี่ + เปิดการเริ่มอัตโนมัติ (โดยเฉพาะ Xiaomi/Redmi)</string>
+    <string name="request_battery">ยกเว้นจำกัดแบตเตอรี่</string>
+    <string name="open_autostart">เปิดหน้าเริ่มอัตโนมัติ (MIUI)</string>
+    <string name="permission_needed">ต้องการสิทธิ์การแจ้งเตือนและ Exact Alarm</string>
+    <string name="interval_hint">1 นาที – 4 ชั่วโมง (240 นาที)</string>
+</resources>
